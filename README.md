@@ -1,4 +1,6 @@
 <!-- Add an eye-catching header GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+
 ![Welcome GIF](https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/Images/coding.gif)
 
 # 🌟 Welcome to My GitHub Space!
