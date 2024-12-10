@@ -2,7 +2,7 @@
 ![Header GIF](https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/Images/header.gif)
 
 # 👋 Hi, I'm Abdelrahman Mostafa! 
-### 🚀 Flutter Developer | Passionate about UI/UX Design
+### 🚀 Flutter Developer | Passionate about Graphic Design
 
 🎓 **Computer Science Undergraduate** at Suez Canal University  
 🌟 **Award-Winning Projects**: Rally Egypt Finalist, Intel ISEF Winner  
