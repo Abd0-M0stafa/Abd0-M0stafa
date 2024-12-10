@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Add a header GIF -->
+![Header GIF](https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/Images/header.gif)
 
-<!--
-**Abd0-M0stafa/Abd0-M0stafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdelrahman Mostafa! 
+### 🚀 Flutter Developer | Passionate about UI/UX Design
 
-Here are some ideas to get you started:
+🎓 **Computer Science Undergraduate** at Suez Canal University  
+🌟 **Award-Winning Projects**: Rally Egypt Finalist, Intel ISEF Winner  
+📍 Based in Cairo, Egypt  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Dart, C, C++, Java
+- **Frameworks**: Flutter
+- **Tools**: VS Code, GitHub, Firebase, Postman, Figma, Adobe Photoshop
+- **Practices**: BLoC, SOLID Principles, Design Patterns
+
+![Tech GIF](https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/Images/code.gif)
+
+---
+
+### 🌟 Featured Projects
+1. **[Gemini AI](#)**: Clean architecture and seamless conversational AI app.
+2. **[AMNA](#)**: Predicts breast cancer risks, making a significant impact on women’s health.
+3. **[Scopo](#)**: Responsive movie app with clean architecture.
+4. **[Bookly](#)**: A book app featuring categorized listings using MVVM.
+5. **[Chat App](#)**: Real-time chat with Firebase integration.
+
+---
+
+### 📜 Certifications
+- **Flutter Payment Integration** (Stripe, PayPal & More) - Udemy  
+- **Mastering Flutter: Responsive & Adaptive UI** - Udemy  
+- **Advanced Mobile Development Using Flutter** - ITI  
+
+![Certificate GIF](https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/Images/award.gif)
+
+---
+
+### 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-mostafa-094118255/)
+- 🖥️ [GitHub](https://github.com/Abd0-M0stafa)
+- 📧 [Email](mailto:abdelrahman.azab688@gmail.com)
+
+![Contact GIF](https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/Images/email.gif)
+
+---
+
+⭐ *Feel free to star ⭐ my repositories if you find them useful!* 
